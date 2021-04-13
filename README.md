@@ -1,2 +1,2 @@
-# DW-marathon-results
-DW Marathon Results app
+# DW-WS results in R
+DW-WS Results app
