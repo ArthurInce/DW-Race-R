@@ -1,0 +1,13 @@
+name: DW-Race-R
+title: DW-Race-R
+username:
+account: incebrown
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 453524
+bundleId: 4437949
+url: https://incebrown.shinyapps.io/DW-Race-R/
+when: 1617723509.16134
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: RDWWSV66.R|RDWWSV68.R|RDWWSV70.R

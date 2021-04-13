@@ -1,0 +1,12 @@
+name: DW-marathon-results
+title: DW-marathon-results
+username:
+account: incebrown
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 418852
+bundleId: 1568739
+url: https://incebrown.shinyapps.io/DW-marathon-results/
+when: 1536068540.53352
+asMultiple: FALSE
+asStatic: FALSE

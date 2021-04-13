@@ -1,0 +1,13 @@
+name: canoe-marathon-results-Sept18
+title: canoe-marathon-results-Sept18
+username:
+account: incebrown
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 447733
+bundleId: 1587201
+url: https://incebrown.shinyapps.io/canoe-marathon-results-Sept18/
+when: 1537026258.01149
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|appDWExperiment2.R|TestForWSDWComparison.R|DWGraphing/.Rhistory|DWGraphing/app.R
